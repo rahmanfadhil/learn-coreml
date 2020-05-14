@@ -53,6 +53,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>This application would like to access your camera to tell wether this picture is beer or not.</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This application would like to access your media library to tell wether your selected picture is beer or not.</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
